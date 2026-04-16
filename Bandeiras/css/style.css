@@ -1,0 +1,17 @@
+.flag {
+  min-height: 8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.flag img {
+  max-height: 50px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.flag p {
+  font-size: .8rem;
+  color: #777;
+}
